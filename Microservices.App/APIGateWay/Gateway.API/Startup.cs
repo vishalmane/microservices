@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 
+
 namespace Gateway.API
 {
     public class Startup
